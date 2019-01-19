@@ -637,3 +637,42 @@ Script Stack (0 frames):
 [2019.01.19-15.36.54:841][510]SourceControl: [master fb89bd6] fly mofo fly
 [2019.01.19-15.36.54:841][510]SourceControl:  6 files changed, 144 insertions(+), 144 deletions(-)
 [2019.01.19-15.36.54:844][510]SourceControl: Commited [master fb89bd6] fly mofo fly.
+[2019.01.19-15.37.28:051][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-15.37.37:949][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.37.43:163][774]SourceControl: fatal: E:/Unreal Engine/UE_4.21/Engine/Content: 'E:/Unreal Engine/UE_4.21/Engine/Content' is outside repository
+[2019.01.19-15.37.43:212][774]EditorErrors: Warning: No assets to check in!
+[2019.01.19-15.37.46:883][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.39.26:901][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.19-15.39.26:984][ 37]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.19-15.39.26:992][ 37]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.19-15.39.26:992][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.19-15.39.26:992][ 37]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 19, 2019, 5:39:26 PM)
+[2019.01.19-15.39.26:992][ 37]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.19-15.39.27:002][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010112s)
+[2019.01.19-15.39.27:003][ 37]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.19-15.39.27:003][ 37]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2019.01.19-15.39.27:003][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010944s)
+[2019.01.19-15.39.27:055][ 37]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID PRO USB Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.01.19-15.39.27:145][ 37]LogInit: FAudioDevice initialized.
+[2019.01.19-15.39.27:178][ 37]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.19-15.39.27:179][ 37]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.01.19-16.39.27
+[2019.01.19-15.39.27:180][ 37]LogWorld: Bringing up level for play took: 0.001077
+[2019.01.19-15.39.27:193][ 37]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.376
+[2019.01.19-15.39.27:193][ 37]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.19-15.39.32:679][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.39.34:137][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.40.31:639][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.41.13:268][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.19-15.41.13:268][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-15.41.13:304][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.19-15.41.13:305][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.19-15.41.13:323][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.19-15.41.13:371][766]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.01.19-15.41.14:614][915]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.01.19-15.41.19:357][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.19-15.41.32:506][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.42.20:363][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.42.21:722][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.42.21:858][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.19-15.42.21:963][504]LogSavePackage: Moving 'C:/Users/Roel/Documents/Unreal Projects/Spudance/FPS_Project/Saved/ThirdPersonExampleMapD85874864D91F54F5ACF05AAD2DFFAB2.tmp' to 'C:/Users/Roel/Documents/Unreal Projects/Spudance/FPS_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.01.19-15.42.21:983][504]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.121
